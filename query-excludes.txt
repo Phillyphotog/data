@@ -120,6 +120,7 @@
 ^DroneFactory$
 ^Dropbox$
 ^DVD$
+^DVDRIP$
 ^dvr$
 ^dvrfiles$
 ^emule$
@@ -178,6 +179,7 @@
 ^Incomplete$
 ^Index$
 ^input$
+^Jaybob$
 ^JDownloader$
 ^jukebox$
 ^Kids$
@@ -395,7 +397,10 @@
 ^www$
 ^x264$
 ^XBMC$
+^Xvid$
+^XEROS$
 ^XXX+$
+^YTS.AG$
 ^YouTube$
 A.PROCESAR
 A.Release.Lounge
